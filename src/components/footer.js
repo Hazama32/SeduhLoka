@@ -75,10 +75,10 @@ const Footer = () => {
           </a>
           <h4 className="mt-3">Email:</h4>  
           <a
-            href="mailto:seduhloka@gmail.com"
+            href="mailto:seduhloka38@gmail.com"
             className="footer-email text-gray-700 text-sm mt-2 block"
           >
-            seduhloka@gmail.com
+            seduhloka38@gmail.com
           </a>
         </div>
         {/* Ikuti Kami (Sosial Media) */}
