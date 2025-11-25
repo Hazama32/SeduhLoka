@@ -1,20 +1,20 @@
 import { Link } from "gatsby";
 import React from "react";
-import logo from "../images/logo-ypdm.png";
+import logo from "../images/logo.png";
 
 const Footer = () => {
   return (
-    <footer className="site-footer bg-gradient-to-r from-gray-200 to-gray-400 mt-20 rounded-2xl shadow-inner text-gray-800">
+    <footer className="site-footer bg-gradient-to-b from-amber-300 to-amber-600  mt-20 rounded-2xl shadow-inner text-gray-800">
       <div className="max-w-7xl mx-auto px-8 py-12 grid grid-cols-1 md:grid-cols-4 gap-10 text-center md:text-left">
         
         {/* Logo & Deskripsi */}
         <div>
           <div className="flex justify-center md:justify-start items-center space-x-2">
-            <img src={logo} alt="Logo SMP Daan Mogot" className="h-16 w-16 object-contain" />
-            <h2 className="text-xl font-bold text-gray-900">SMP Daan Mogot</h2>
+            <img src={logo} alt="Logo SMP Daan Mogot" className="h-20 w-20 object-contain" />
+            <h2 className="text-xl font-bold text-gray-900">SeduhLoka</h2>
           </div>
           <p className="text-gray-700 text-sm mt-3">
-            Membangun Generasi Cerdas dan Berkarakter
+            Setiap Seduhan, Rasa di Rumah.
           </p>
         </div>
 
@@ -66,19 +66,19 @@ const Footer = () => {
         </div>
         {/* Kontak */}
         <div>
-          <h3 className="font-semibold text-gray-900 mb-3">Informasi Sekolah</h3>
-          <h4>Alamat Sekolah:</h4>
-          <a className="text-gray-700 text-sm hover:underline footer-link" href="https://maps.app.goo.gl/UHC648AG4njcLnJ1A">
-            Jl. Gatot Subroto Km. 5<br />
-            Kel. Jatiuwung, Kec. Cibodas<br />
-            Kota Tangerang
+          <h3 className="font-semibold text-gray-900 mb-3">Informasi Perusahaan</h3>
+          <h4>Alamat:</h4>
+          <a className="text-gray-700 text-sm hover:underline footer-link">
+            Jl. Merdeka No.50<br />
+            Kel. Nusa Indah Kec. Bekasi Utara <br />
+            Kota Bekasi, Jawa Barat 17124
           </a>
           <h4 className="mt-3">Email:</h4>  
           <a
-            href="mailto:smpdaanmogot16@gmail.com"
+            href="mailto:seduhloka@gmail.com"
             className="footer-email text-gray-700 text-sm mt-2 block"
           >
-            smpdaanmogot16@gmail.com
+            seduhloka@gmail.com
           </a>
         </div>
         {/* Ikuti Kami (Sosial Media) */}
@@ -86,7 +86,7 @@ const Footer = () => {
           <h3 className="font-semibold text-gray-900 mb-3">Ikuti Kami</h3>
           <div className="flex space-x-4">
             <a
-              href="https://www.instagram.com/smpdagota_official/"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-social"
@@ -122,8 +122,8 @@ const Footer = () => {
       </div>
 
       {/* Garis pemisah dan copyright */}
-      <div className="border-t border-gray-300 mt-8 pt-6 text-center text-sm text-gray-700">
-        © {new Date().getFullYear()} SMP Daan Mogot. All rights reserved.
+      <div className="border-t border-amber-600 mt-8 pt-4 pb-4 text-center text-sm text-gray-700">
+        © {new Date().getFullYear()} SeduhLoka. All rights reserved.
       </div>
     </footer>
   );

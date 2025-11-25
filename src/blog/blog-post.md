@@ -1,19 +1,17 @@
 ---
 templateKey: blog-post
-title:  Semangat HUT RI ke-80 Siswa SMP Daan Mogot Tunjukkan Kreativitas dan Disiplin
-date: 2025-08-17T15:02:06.069Z
-featuredimage: /img/Head.jpg
+title:  Arabika vs Robusta Mana yang Cocok untuk Seduhan Harianmu?
+date: 2025-08-13T15:02:06.069Z
+featuredimage: /img/biji.jpg
 categories:
   - blog
 tags:
   - blog
-description: Dalam rangka memperingati Hari Kemerdekaan Republik Indonesia yang ke-80, SMP Daan Mogot menggelar berbagai lomba seru seperti balap karung, tarik tambang, dan lomba kebersihan kelas. Kegiatan ini bukan hanya menjadi ajang hiburan, tetapi juga sarana untuk menumbuhkan semangat kebersamaan dan nasionalisme.
+description: Pernahkah Anda bertanya-tanya mengapa ada kopi yang pahitnya kuat dan ada yang aromanya lebih lembut? Jawabannya ada pada dua jenis biji kopi paling populer di dunia Arabika dan Robusta. Di SeduhLoka, kami percaya setiap seduhan adalah pengalaman, dan pengalaman terbaik dimulai dengan pemahaman. Mari kita bedah perbedaannya!
 ---
 ##
-Dalam rangka memperingati Hari Ulang Tahun Kemerdekaan Republik Indonesia ke-80, SMP Daan Mogot menyelenggarakan serangkaian kegiatan yang penuh semangat dan kebersamaan. Seluruh siswa, guru, serta staf sekolah turut berpartisipasi aktif dalam memeriahkan acara tahunan ini yang menjadi momen penting untuk menanamkan nilai nasionalisme dan cinta tanah air.
+Arabika: Sang Ratu Aroma dan Rasa Ditanam di dataran tinggi, biji Arabika dikenal dengan cita rasa yang kompleks, kaya aroma bunga dan buah, serta tingkat keasaman yang lebih tinggi. Kandungan kafeinnya lebih rendah, membuat Arabika menjadi pilihan favorit bagi mereka yang menikmati kopi dengan nuansa rasa yang halus dan beragam. Ideal untuk manual brew atau espresso yang nikmat.
 ##
-Berbagai lomba diadakan dengan suasana meriah, seperti lomba tarik tambang, lomba kebersihan kelas, karnaval kemerdekaan, serta pentas seni yang menampilkan bakat dan kreativitas siswa. Kegiatan tersebut menjadi wadah bagi siswa untuk mengekspresikan diri sekaligus belajar tentang pentingnya kerja sama, sportivitas, dan kedisiplinan.
+Robusta: Sang Raja Kekuatan dan Kekayaan Robusta, yang tumbuh subur di dataran rendah, memiliki karakter yang berani dan kuat. Rasanya lebih pahit, body lebih penuh, dan kandungan kafeinnya hampir dua kali lipat dari Arabika. Robusta adalah pilihan tepat untuk Anda yang mencari "tendangan" kafein di pagi hari atau sebagai dasar kopi susu yang kuat.
 ##
-Selain lomba, acara juga diisi dengan upacara bendera dan penampilan khusus bertema perjuangan bangsa. Melalui kegiatan ini, SMP Daan Mogot berusaha mengingatkan seluruh warga sekolah akan nilai perjuangan para pahlawan yang telah berkorban demi kemerdekaan Indonesia.
-##
-Semangat HUT RI ke-80 ini bukan hanya menjadi ajang perayaan, tetapi juga momentum untuk memperkuat karakter siswa agar menjadi generasi muda yang tangguh, bersemangat, dan berjiwa patriotik. Dengan dukungan para guru dan tenaga pendidik, SMP Daan Mogot berharap semangat kebangsaan ini terus tumbuh dalam diri setiap siswa.
+Mana Pilihanmu? Di SeduhLoka, kami menyediakan kedua jenis ini dengan kualitas terbaik, baik untuk espresso blend di menu kopi susu kami maupun pilihan single origin untuk manual brew. Kunjungilah kedai kami dan biarkan Barista SeduhLoka membantu Anda menemukan biji kopi yang paling pas untuk selera Anda.

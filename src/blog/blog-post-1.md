@@ -1,19 +1,26 @@
 ---
 templateKey: blog-post
-title: Inovasi Belajar Berbasis Teknologi di SMP Daan Mogot
+title: Tips Barista SeduhLoka untuk Kopi Rumahanmu
 date: 2025-08-27T15:39:18.616Z
-featuredimage: /img/ANBK.jpg
+featuredimage: /img/racik.png
 categories:
   - blog
 tags:
   - blog
-description: SMP Daan Mogot kini menerapkan sistem pembelajaran berbasis teknologi untuk mendukung proses belajar mengajar di era digital. Melalui penggunaan aplikasi interaktif, video pembelajaran, dan sistem penilaian online, guru dapat memberikan pengalaman belajar yang lebih menarik dan efektif.
+description: Siapa bilang kopi enak hanya bisa dinikmati di coffeeshop? Dengan sedikit tips dari Barista SeduhLoka, Anda bisa menciptakan seduhan yang tak kalah nikmat di kenyamanan rumah Anda sendiri. Siapkan alat seduh favoritmu, mari kita mulai!
 ---
+##
+A.
+Pilih Biji Kopi Berkualitas: Ini adalah pondasi utamanya! Pastikan biji kopi Anda fresh (baru roasting) dan digiling sesaat sebelum diseduh. Anda bisa mendapatkan biji kopi fresh pilihan di SeduhLoka.
 ## 
-Sebagai sekolah yang terus beradaptasi dengan perkembangan zaman, SMP Daan Mogot kini menerapkan inovasi dalam proses belajar mengajar dengan memanfaatkan teknologi digital. Langkah ini dilakukan untuk menciptakan pembelajaran yang lebih interaktif, efektif, dan sesuai dengan kebutuhan generasi masa kini yang sangat dekat dengan dunia digital.
-
-Melalui penggunaan laptop, tablet, proyektor interaktif, serta berbagai aplikasi pembelajaran daring, para guru di SMP Daan Mogot berupaya menghadirkan pengalaman belajar yang menyenangkan. Siswa dapat mengakses materi pelajaran secara online, berdiskusi melalui platform digital, serta mengerjakan tugas dan proyek berbasis teknologi.
-## 
-Selain itu, SMP Daan Mogot juga memberikan pelatihan kepada guru agar mampu mengintegrasikan teknologi dengan metode pembelajaran modern. Dengan demikian, proses belajar tidak hanya berfokus pada teori, tetapi juga pada pengembangan keterampilan digital yang sangat dibutuhkan di masa depan.
-
-Inovasi ini juga mendorong siswa untuk berpikir kreatif, kritis, dan mandiri. Mereka belajar memecahkan masalah melalui berbagai sumber informasi yang tersedia di dunia digital. SMP Daan Mogot berkomitmen untuk terus mengembangkan sistem pembelajaran berbasis teknologi sebagai langkah nyata dalam menyiapkan siswa menghadapi era global yang penuh tantangan dan peluang.
+B.
+Perhatikan Rasio Kopi dan Air: Aturan emas yang sering digunakan adalah 1:15 (1 gram kopi untuk setiap 15 ml air). Jangan ragu bereksperimen untuk menemukan rasio favoritmu.
+##
+C.
+Suhu Air yang Ideal: Suhu air yang terlalu panas bisa membuat kopi pahit, sementara terlalu dingin membuatnya kurang terekstraksi. Idealnya adalah antara 90-96°C.
+##
+D.
+Gilingan yang Tepat: Gilingan kasar untuk French Press, sedang untuk V60 atau Pour Over, dan halus untuk Espresso.
+##
+E.
+Perhatikan Waktu Seduh: Setiap metode punya waktu seduh optimalnya sendiri. Jangan terburu-buru, nikmati prosesnya.

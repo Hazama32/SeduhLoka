@@ -12,8 +12,8 @@ const IndexPage = () => (
   <div className="h-auto w-screen">
     <Layout>
       <Seo
-        title="SMP Daan Mogot"
-        description="SMP Daan Mogot berkomitmen mencetak generasi yang beriman, berakhlak mulia, disiplin, dan berprestasi. Melalui pembelajaran aktif, kreatif, dan berbasis teknologi, kami menyiapkan peserta didik menghadapi masa depan dengan pengetahuan dan karakter yang kuat."
+        title="SeduhLoka"
+        description="SeduhLoka menawarkan pengalaman ngopi serasa di rumah. Nikmati Arabika premium, Robusta lokal, dan suasana cozy di Bekasi. Setiap Seduhan, Rasa di Rumah"
       ></Seo>
       <Header></Header>
       <FeatureSection></FeatureSection>

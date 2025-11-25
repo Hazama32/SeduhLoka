@@ -11,7 +11,7 @@ const BlogHeader = ({ post }) => {
       <Fade duration={2200}>
         <div className="flex flex-row justify-between xxs:flex-col-reverse xs:flex-col-reverse sm:flex-row mb-5">
           {/* Bagian Teks */}
-          <div className="max-h-80 w-11/12 flex flex-col justify-center bg-gradient-to-r from-gray-200 to-gray-400 p-8 rounded-xl lg:m-5 xxs:w-full xs:w-full sm:w-full lg:w-full shadow-md">
+          <div className="max-h-80 w-11/12 flex flex-col justify-center bg-gradient-to-b from-amber-500 to-amber-800 p-8 rounded-xl lg:m-5 xxs:w-full xs:w-full sm:w-full lg:w-full shadow-md">
             <Link to={post.node.fields.slug} style={{ textDecoration: "none" }}>
               <h1 className="text-black text-2xl font-semibold">
                 {post.node.frontmatter.title}

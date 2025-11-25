@@ -18,40 +18,40 @@ const Navbar = () => {
               className="text-black flex-shrink-0 font-montserrat font-semibold"
               href="/"
             >
-              <span className="text-gradient bg-gradient-to-r from-white to-gray-400 font-bold">
-                SMP DAAN MOGOT
+              <span className="text-gradient bg-gradient-to-t from-amber-500 to-amber-800 font-bold">
+               SeduhLoka
               </span>
             </a>
             {/* Menu Desktop */}
             <div className="hidden md:block">
               <div className="ml-10 flex items-center space-x-4">
                 <a // Diganti dari Link ke <a>
-                  className="relative after:rounded after:bg-gray-400 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
+                  className="relative after:rounded after:bg-amber-600 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-amber-700  hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
                   href="/" // Menggunakan 'href' untuk <a>
                 >
                   Home
                 </a>
                 <a // Diganti dari Link ke <a>
-                  className="relative after:rounded after:bg-gray-400 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
+                  className="relative after:rounded after:bg-amber-600 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
                   href="/about" // Menggunakan 'href' untuk <a>
                 >
                   Tentang Kami
                 </a>
 
                 <a // Diganti dari Link ke <a>
-                  className="relative after:rounded after:bg-gray-400 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
+                  className="relative after:rounded after:bg-amber-600 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-amber-700  hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
                   href="/gallery" // Menggunakan 'href' untuk <a>
                 >
                   Galeri
                 </a>
                 <a // Diganti dari Link ke <a>
-                  className="relative after:rounded after:bg-gray-400 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
+                  className="relative after:rounded after:bg-amber-600 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
                   href="/blog" // Menggunakan 'href' untuk <a>
                 >
                   Blog
                 </a>
                 <a // Diganti dari Link ke <a>
-                  className="relative after:rounded after:bg-gray-400 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
+                  className="relative after:rounded after:bg-amber-600 after:absolute after:h-0.5 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-montserrat"
                   href="/contact" // Menggunakan 'href' untuk <a>
                 >
                   Kontak
@@ -90,16 +90,16 @@ const Navbar = () => {
       {openMenu && (
         <div className="transition duration-1000 ease-in-out md:hidden">
           {/* Mengubah tampilan menjadi gelap seperti di screenshot */}
-          <div className="absolute top-16 left-0 w-full bg-[#1e2a47] shadow-xl p-4 flex flex-col space-y-2 z-30"> 
+          <div className="absolute top-16 left-0 w-full bg-amber-400 shadow-xl p-4 flex flex-col space-y-2 z-30"> 
             <a // Menggunakan <a> untuk navigasi
-              className="text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
+              className="text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
               href="/"
               onClick={handleLinkClick}
             >
               Home
             </a>
             <a // Menggunakan <a> untuk navigasi
-              className="text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
+              className="text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
               href="/about"
               onClick={handleLinkClick}
             >
@@ -107,21 +107,21 @@ const Navbar = () => {
             </a>
 
             <a // Menggunakan <a> untuk navigasi
-              className="text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
+              className="text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
               href="/gallery"
               onClick={handleLinkClick}
             >
               Galeri
             </a>
             <a // Menggunakan <a> untuk navigasi
-              className="text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
+              className="text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
               href="/blog"
               onClick={handleLinkClick}
             >
               Blog
             </a>
             <a // Menggunakan <a> untuk navigasi
-              className="text-white opacity-70 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
+              className="text-amber-700 hover:opacity-100 px-3 py-2 rounded-md text-lg font-medium font-montserrat"
               href="/contact"
               onClick={handleLinkClick}
             >

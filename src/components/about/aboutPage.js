@@ -47,16 +47,14 @@ const WorkPage = () => {
           Time to lock new speeds
         </h3> */}
 
-        <p className="text-white opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          SMP Daan Mogot merupakan salah satu lembaga pendidikan yang berkomitmen untuk mencetak generasi muda yang beriman, berakhlak mulia, berprestasi, dan siap menghadapi tantangan masa depan. Melalui proses pembelajaran yang aktif, kreatif, dan berbasis teknologi, sekolah ini terus berupaya menciptakan lingkungan belajar yang nyaman, aman, dan menyenangkan bagi seluruh peserta didik.
-          Dengan dukungan tenaga pendidik yang profesional serta fasilitas yang terus berkembang, SMP Daan Mogot bertekad untuk menjadi sekolah yang tidak hanya unggul dalam bidang akademik, tetapi juga dalam pembentukan karakter dan nilai-nilai kedisiplinan. Kami percaya bahwa pendidikan yang baik adalah pondasi utama dalam membangun generasi penerus bangsa yang cerdas dan berintegritas.
+        <p className="text-black font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
+          SeduhLoka lahir dari sebuah filosofi sederhana bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di tempat yang terasa seperti rumah. Nama kami, gabungan dari "Seduh" (proses teliti membuat kopi) dan "Loka" (tempat), mencerminkan visi kami: menciptakan coffeeshop yang menjadi loka yang hangat, nyaman, dan menjadi pelabuhan favorit bagi siapa pun yang mencari kualitas dan ketenangan. Kami hadir bukan sekadar untuk menjual kafein, tetapi untuk menyajikan pengalaman seduh premium dalam suasana yang merangkul Anda.
         </p>
-        <p className="text-white opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Sebagai sekolah yang mengedepankan nilai-nilai religius, moral, dan kedisiplinan, SMP Daan Mogot menanamkan prinsip keimanan serta ketakwaan kepada Tuhan Yang Maha Esa dalam setiap kegiatan pembelajaran maupun kegiatan ekstrakurikuler. Selain itu, sekolah juga mendorong peserta didik untuk berprestasi tidak hanya di bidang akademik, tetapi juga dalam bidang non-akademik seperti seni, olahraga, dan kegiatan sosial.
+        <p className="text-black font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
+         Komitmen utama kami berakar pada kualitas yang tiada kompromi. Setiap cangkir kopi di SeduhLoka adalah hasil dari proses pemilihan biji yang cermat—berasal dari petani lokal dan regional yang kami dukung—dan teknik penyeduhan yang presisi oleh Barista kami yang terlatih. Kami percaya pada transparansi, memastikan bahwa biji kopi yang Anda nikmati tidak hanya lezat tetapi juga memiliki cerita dan dampak positif. Kami menjembatani hasil kerja keras petani dengan cangkir sempurna Anda, menjadikan setiap seduhan menjadi momen yang berharga.
         </p>
-        <p className="text-white opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lingkungan sekolah yang bersih, sehat, dan nyaman menjadi salah satu prioritas utama dalam menciptakan suasana belajar yang kondusif. SMP Daan Mogot percaya bahwa tempat belajar yang aman dan menyenangkan akan membantu siswa berkembang secara optimal dan baik dalam kemampuan berpikir kritis, kreativitas, maupun kerja sama tim.
-          Didukung oleh tenaga pendidik yang profesional, berdedikasi tinggi, serta memiliki pengalaman dalam dunia pendidikan, SMP Daan Mogot senantiasa berupaya memberikan pelayanan terbaik dalam setiap aspek kegiatan belajar mengajar. Para guru tidak hanya menjadi pengajar, tetapi juga pembimbing dan teladan bagi peserta didik, sehingga tercipta hubungan yang harmonis antara guru dan siswa.
+        <p className="text-black font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
+          SeduhLoka lebih dari sekadar kedai, kami adalah pusat komunitas yang aktif. Kami menyediakan ruang yang ideal bagi Anda untuk bekerja, berkreasi, atau sekadar berbagi tawa bersama teman. Kami mengundang Anda untuk merasakan langsung perbedaan rasa di rumah yang kami tawarkan. Kunjungi SeduhLoka hari ini, rasakan kehangatan loka kami, dan temukan kopi harian sempurna Anda. Kami menantikan kehadiran Anda untuk berbagi cerita dan menikmati setiap tetesnya bersama.
         </p>
       </div>
     </div>

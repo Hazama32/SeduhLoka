@@ -5,20 +5,20 @@ import Button from "../components/Atoms/button"
 import Fade from "react-reveal/Fade"
 import Seo from "../components/seo"
 
-import image from "../images/bg-kontak.png"
+import image from "../images/kontak.jpg"
 
 const Contact = () => {
   return (
     <Layout>
       <Seo
-        title="Kontak"
-        description="Hubungi SMP Daan Mogot untuk informasi pendaftaran, kegiatan sekolah, atau kerja sama pendidikan. Kami siap membantu melalui telepon, email, dan kunjungan langsung ke sekolah. SMP Daan Mogot berlokasi di Jl. Gatot Subroto Km. 5 Kel. Jatiuwung Kec. Cibodas Kota Tangerang Kode Pos 15134, dan berkomitmen memberikan layanan terbaik bagi siswa, orang tua, dan masyarakat sekitar."
+        title="Kontak SeduhLoka"
+        description="Cari tahu alamat SeduhLoka di Bekasi Utara, jam operasional, dan informasi kontak (telepon & email). Siap melayani pemesanan event dan pertanyaan Anda."
       ></Seo>
 
-      <div className="max-w-7xl mx-auto mt-10 flex text-white xxs:flex-col sm:flex-row">
+      <div className="max-w-7xl mx-auto mt-10 flex text-amber-200 xxs:flex-col sm:flex-row">
         <Fade duration={1200}>
-          <div className="bg-gradient-to-r from-gray-500 to-gray-400 p-10 rounded-xl w-3/4 m-5 w-auto">
-            <h1 className="text-3xl text-white font-bold">INFORMASI SEKOLAH SMP DAAN MOGOT</h1>
+          <div className="bg-gradient-to-r from-amber-500 to-amber-800 p-10 rounded-xl w-3/4 m-5 w-auto">
+            <h1 className="text-3xl text-amber-300 font-bold">INFORMASI SEDUHLOKA</h1>
             {/* <h2 className=" text-black text-gradient bg-gradient-to-r from-pink to-purple text-4xl font-bold mt-2 xxs:text-lg sm:text-2xl lg:text-4xl">
               Gatsby Theme
             </h2> */}
@@ -83,8 +83,8 @@ const Contact = () => {
                         Email
                       </p>
                       <p className="text-neutral-500 mb-2">
-                        <a href="mailto:smpdaanmogot16@gmail.com" className="break-all">
-                          smpdaanmogot16@gmail.com
+                        <a href="mailto:seduhloka@gmail.com" className="break-all">
+                          seduhloka@gmail.com
                         </a>
                       </p>
                     </div>
@@ -114,7 +114,7 @@ const Contact = () => {
                       <p className="mb-2 font-bold underline decoration-gray-400">
                         Lokasi
                       </p>
-                      <a className="text-neutral-500 mb-2" href="https://maps.app.goo.gl/UHC648AG4njcLnJ1A">Jl. Gatot Subroto Km. 5 Kel. Jatiuwung Kec. Cibodas Kota Tangerang Kode Pos 15134</a>
+                      <a className="text-neutral-500 mb-2">Jl. Merdeka No.50 Kel. Nusa Indah Kec. Bekasi Utara Kota Bekasi, Jawa Barat 17124</a>
                     </div>
                   </div>
                 </div>
@@ -142,7 +142,7 @@ const Contact = () => {
                       <p className="mb-2 font-bold underline decoration-gray-400">
                         Jam Kerja
                       </p>
-                      <p className="text-neutral-500 mb-2">Senin-Jum'at</p>
+                      <p className="text-neutral-500 mb-2">Senin-Minggu</p>
                     </div>
                   </div>
                 </div>

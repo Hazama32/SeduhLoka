@@ -19,7 +19,7 @@ const BlogsContainer = ({ data }) => {
           <Fade key={i} duration={2200}>
             <div className="flex flex-row justify-between xxs:flex-col-reverse xs:flex-col-reverse sm:flex-row mb-5">
               {/* Bagian teks */}
-              <div className="flex flex-col justify-center bg-gradient-to-r from-gray-200 to-gray-400 p-8 rounded-xl lg:m-5 xxs:w-full xs:w-full sm:w-full lg:w-full shadow-md">
+              <div className="flex flex-col justify-center bg-gradient-to-b from-amber-500 to-amber-800 p-8 rounded-xl lg:m-5 xxs:w-full xs:w-full sm:w-full lg:w-full shadow-md">
                 <Link
                   to={blog.slug}
                   style={{

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Sekolah Unggul, Berkarakter, dan Berprestasi`,
-    description: `SMP Daan Mogot berkomitmen mencetak generasi yang beriman, berakhlak mulia, disiplin, dan berprestasi. Melalui pembelajaran aktif, kreatif, dan berbasis teknologi, kami menyiapkan peserta didik menghadapi masa depan dengan pengetahuan dan karakter yang kuat.`,
+    title: `Setiap Seduhan, Rasa di Rumah.`,
+    description: `Menciptakan tempat di mana kualitas kopi premium tidak terasa intimidating, dan setiap pengunjung merasa seperti kembali ke rumah. Kami percaya bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di lingkungan yang nyaman.`,
     siteUrl: "https://holo-theme.netlify.app/",
     author: `Travis Lord <hi@travislord.xyz>`,
   },

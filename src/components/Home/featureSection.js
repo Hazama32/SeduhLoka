@@ -2,7 +2,7 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 
 // Assets
-import HeroImage from "../../images/Head.jpg"
+import HeroImage from "../../images/Kopi.png"
 import Image1 from "../../images/All-guru.jpg"
 import Image2 from "../../images/ATS.jpg"
 import Image3 from "../../images/Kerja-bakti.jpg"
@@ -23,23 +23,19 @@ const FeatureSection = () => {
 
         {/* Teks */}
         <div className="w-full lg:w-1/2 text-center lg:text-right flex flex-col justify-center">
-         <h2 className="text-3xl sm:text-4xl lg:text-6xl font-bold leading-tight text-center lg:text-right bg-gradient-to-r from-gray-200 to-gray-400 bg-clip-text text-transparent drop-shadow-[0_2px_2px_rgba(0,0,0,0.25)]">
-            Membangun Generasi Cerdas dan Berkarakter
+         <h2 className="text-3xl sm:text-4xl lg:text-6xl font-bold leading-tight text-center lg:text-right bg-gradient-to-b from-amber-500 to-amber-800 bg-clip-text text-transparent drop-shadow-[0_2px_2px_rgba(0,0,0,0.25)]">
+            Setiap Seduhan, Rasa di Rumah.
          </h2>
           <p className="mt-4 text-gray-800 text-justify sm:text-lg leading-relaxed px-2 sm:px-0">
-            SMP Daan Mogot berkomitmen menciptakan lingkungan belajar yang
-            inspiratif dan berprestasi. Melalui pembelajaran inovatif dan
-            kegiatan berkarakter, kami menyiapkan peserta didik agar siap
-            menghadapi masa depan dengan ilmu pengetahuan, keterampilan, dan
-            akhlak mulia.
+          Menciptakan tempat di mana kualitas kopi premium tidak terasa intimidating, dan setiap pengunjung merasa seperti kembali ke rumah. Kami percaya bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di lingkungan yang nyaman.
           </p>
 
           <div className="mt-6 flex justify-center lg:justify-end">
             <a
               href="/gallery"
               className="inline-flex items-center justify-center px-6 py-3 text-sm sm:text-base font-medium rounded-md 
-                bg-gradient-to-r from-white via-gray-300 to-gray-100
-                text-gray-800 hover:text-black border border-gray-800 
+                bg-gradient-to-r from-amber-500 to-amber-800
+                text-white hover:text-black border border-amber-500 
                 transition-transform duration-300 hover:scale-105 shadow-md"
             >
               Lihat Galeri
@@ -65,34 +61,27 @@ const FeatureSection = () => {
       {/* Visi Misi */}
       <Fade bottom cascade>
         <div className="mt-10 flex flex-col lg:flex-row gap-6">
-          <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl flex-1 shadow-md">
+          <div className="bg-gradient-to-b from-amber-500 to-amber-800 p-6 rounded-xl flex-1 shadow-md">
             <h2 className="text-black font-semibold text-3xl sm:text-4xl">Visi</h2>
             <p className="mt-4 text-black text-lg leading-relaxed">
-              “Terwujudnya peserta didik yang beriman, berakhlak mulia,
-              berprestasi, disiplin, dan peduli terhadap lingkungan.”
+              Menjadi coffeeshop pilihan utama yang dikenal karena kualitas seduhan premium dan menciptakan loka (tempat) yang hangat, menginspirasi, dan menjadi bagian penting dari komunitas sekitar.
             </p>
           </div>
 
-          <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl flex-1 shadow-md">
+          <div className="bg-gradient-to-b from-amber-500 to-amber-800 p-6 rounded-xl flex-1 shadow-md">
             <h2 className="text-black font-semibold text-3xl sm:text-4xl">Misi</h2>
             <ol className="mt-4 list-decimal list-inside space-y-2 text-black text-base sm:text-lg leading-relaxed">
               <li>
-                Menanamkan keimanan dan ketakwaan kepada Tuhan Yang Maha Esa
-                melalui pembiasaan dan keteladanan.
+                Menyajikan kopi dengan standar kualitas seduhan tertinggi, mulai dari pemilihan biji kopi lokal terbaik hingga teknik penyajian yang presisi.
               </li>
               <li>
-                Mendorong peserta didik untuk berprestasi dalam bidang akademik
-                maupun non-akademik.
+                Membangun dan menjaga suasana kedai yang terasa seperti rumah (homey), menyediakan tempat yang ideal untuk bekerja, berkreasi, atau sekadar beristirahat.
               </li>
               <li>
-                Membentuk karakter disiplin, tanggung jawab, dan jujur.
+                Berkolaborasi dan mendukung petani kopi lokal serta menjadi platform bagi seniman dan pegiat komunitas di sekitar lokasi SeduhLoka.
               </li>
               <li>
-                Menciptakan lingkungan sekolah yang bersih, sehat, dan nyaman.
-              </li>
-              <li>
-                Mengembangkan keterampilan abad 21 melalui pembelajaran aktif,
-                kreatif, dan inovatif berbasis teknologi.
+                Mengembangkan produk kopi yang unik dan memastikan pengalaman pelanggan yang cepat, ramah, dan efisien
               </li>
             </ol>
           </div>
@@ -100,7 +89,7 @@ const FeatureSection = () => {
       </Fade>
 
       {/* Galeri */}
-      <Fade bottom cascade>
+      {/* <Fade bottom cascade>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-10">
           {[Image1, Image2, Image3].map((img, i) => (
             <div key={i} className="rounded-xl overflow-hidden shadow-md">
@@ -112,10 +101,10 @@ const FeatureSection = () => {
             </div>
           ))}
         </div>
-      </Fade>
+      </Fade> */}
 
       {/* Kegiatan */}
-      <Fade bottom cascade>
+      {/* <Fade bottom cascade>
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl shadow-md text-center">
             <h3 className="text-black text-xl sm:text-2xl font-semibold">
@@ -133,7 +122,7 @@ const FeatureSection = () => {
             </h3>
           </div>
         </div>
-      </Fade>
+      </Fade> */}
     </div>
   )
 }

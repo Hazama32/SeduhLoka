@@ -1,6 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
-import hero from "../../images/logo-ypdm.png"
+import hero from "../../images/logo.png"
 
 const Header = () => {
   return (
@@ -16,16 +16,16 @@ const Header = () => {
             {/* Judul Utama dengan animasi ketik */}
             <h2 className="relative text-4xl sm:text-5xl md:text-6xl font-bold mt-3 leading-tight">
               <span
-                className="relative inline-block animate-typing-home"
+                className="relative animate-typing-home"
                 style={{
-                  background: "linear-gradient(to right, #ffffff, #9ca3af, #f9fafb)",
+                  background: "linear-gradient(to top, #CC8855, #8C6B4B)",
                   WebkitBackgroundClip: "text",
                   WebkitTextFillColor: "transparent",
                   color: "transparent",
                   fontWeight: "bold",
                 }}
               >
-                SMP DAAN MOGOT
+                SeduhLoka
               </span>
             </h2>
 
@@ -34,8 +34,8 @@ const Header = () => {
               <a
                 href="/about"
                 className="flex items-center justify-center px-6 py-2 sm:px-8 sm:py-3 text-base font-medium rounded-md 
-                bg-gradient-to-r from-[#ffffff] via-[#9ca3af] to-[#f9fafb] 
-                text-gray-800 hover:text-blue-600 border border-gray-800 
+                bg-gradient-to-r from-amber-500 to-amber-800 
+                text-white hover:text-blue-600 border border-amber-500 
                 transition-all duration-300 hover:scale-105 shadow-lg"
               >
                 Klik Disini
@@ -63,7 +63,7 @@ const Header = () => {
             <img
               className="rounded-xl w-40 sm:w-52 md:w-64 lg:w-[60%] object-contain drop-shadow-lg"
               src={hero}
-              alt="Logo SMP Daan Mogot"
+              alt="Logo SeduhLoka"
             />
           </div>
         </div>

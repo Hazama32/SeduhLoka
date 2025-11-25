@@ -71,8 +71,8 @@ const BlogPost = props => {
   return (
     <Layout>
       <Seo
-        title="Blog"
-        description="Baca berita dan artikel terbaru dari SMP Daan Mogot. Temukan informasi seputar kegiatan sekolah, prestasi siswa, serta tips belajar dan pendidikan karakter. Melalui blog ini, SMP Daan Mogot berbagi inspirasi dan pengalaman untuk mendukung proses belajar siswa agar terus berkembang dan berprestasi di bidang akademik maupun non-akademik."
+        title="Blog SeduhLoka"
+        description="Baca artikel terbaru dari SeduhLoka. Temukan tips membuat kopi di rumah, review biji kopi lokal, panduan manual brew, dan berita terbaru dari coffeeshop kami di Bekasi."
       />
       <main className="pt-8 pb-16 lg:pt-16 lg:pb-24">
         <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">

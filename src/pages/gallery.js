@@ -7,8 +7,8 @@ const GalleryPage = () => {
   return (
     <Layout>
       <Seo
-        title="Galeri"
-        description="Lihat dokumentasi kegiatan SMP Daan Mogot melalui galeri foto dan video terbaru kami. Setiap momen menggambarkan semangat belajar, kreativitas, dan kebersamaan siswa dalam berbagai kegiatan sekolah, baik akademik maupun ekstrakurikuler. Galeri SMP Daan Mogot menampilkan bukti nyata dedikasi sekolah dalam menciptakan lingkungan belajar yang aktif dan menyenangkan."
+        title="Menu SeduhLoka"
+        description="Cicipi menu spesial SeduhLoka! Dari Iced Latte yang unik, Hot Cappucino, hingga Manual Brew V60 dari biji kopi pilihan terbaik."
       ></Seo>
       <Gallery></Gallery>
     </Layout>

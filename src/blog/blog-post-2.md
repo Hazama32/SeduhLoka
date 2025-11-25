@@ -1,21 +1,19 @@
 ---
 templateKey: blog-post
-title: Program Sekolah Hijau Wujud Nyata Peduli Lingkungan
+title: Kisah SeduhLoka dan Komunitas Kami
 date: 2025-10-17T15:02:06.069Z
-featuredimage: /img/Kerja-bakti.jpg
+featuredimage: /img/about-head.png
 categories:
   - blog
 tags:
   - blog
-description: Sebagai bentuk kepedulian terhadap lingkungan, SMP Daan Mogot meluncurkan program Sekolah Hijau. Melalui kegiatan seperti menanam pohon, daur ulang sampah, dan lomba kelas terbersih, sekolah mengajak seluruh siswa menjaga kebersihan dan keindahan lingkungan sekolah.
+description: Sejak pintu SeduhLoka pertama kali terbuka, kami selalu memiliki satu tujuan menjadi lebih dari sekadar coffeeshop. Kami ingin menjadi sebuah tempat di mana orang-orang bisa berkumpul, berbagi cerita, dan merasa seperti di rumah.
 ---
 ##
-SMP Daan Mogot menunjukkan komitmennya terhadap pelestarian lingkungan melalui pelaksanaan Program Sekolah Hijau. Program ini dirancang untuk menumbuhkan kesadaran dan tanggung jawab siswa dalam menjaga kebersihan serta kelestarian lingkungan sekolah.
+Sejak pintu SeduhLoka pertama kali terbuka, kami selalu memiliki satu tujuan: menjadi lebih dari sekadar coffeeshop. Kami ingin menjadi sebuah loka sebuah tempat dimana orang-orang bisa berkumpul, berbagi cerita, dan merasa seperti di rumah.
 ##
-Berbagai kegiatan positif dilaksanakan secara rutin, seperti penanaman pohon, pembuatan taman mini, daur ulang sampah plastik, hingga lomba kebersihan antar kelas. Setiap siswa diajak berpartisipasi aktif dengan menanam tanaman di sekitar kelas dan menjaga kebersihan lingkungan belajar.
+Berawal dari Sebuah Mimpi: SeduhLoka adalah wujud dari mimpi untuk menyajikan kopi yang tidak hanya enak, tetapi juga memiliki cerita. Kami bangga mendukung petani kopi lokal, membawa biji kopi terbaik mereka langsung ke cangkir Anda. Setiap cangkir yang Anda nikmati turut mendukung keberlanjutan dan kesejahteraan para petani ini.
 
-Selain kegiatan fisik, sekolah juga memberikan edukasi lingkungan melalui pembelajaran tematik, seminar, dan proyek kelompok yang berfokus pada isu-isu lingkungan. Dengan pendekatan ini, siswa tidak hanya belajar teori, tetapi juga mempraktikkan perilaku ramah lingkungan dalam kehidupan sehari-hari.
-
-Program Sekolah Hijau di SMP Daan Mogot tidak hanya bertujuan menciptakan lingkungan yang bersih dan asri, tetapi juga membentuk karakter siswa yang peduli dan bertanggung jawab terhadap alam. Harapannya, nilai-nilai peduli lingkungan ini dapat terbawa hingga ke rumah dan masyarakat luas, sehingga menjadi bagian dari kebiasaan hidup yang positif.
+Menjadi Bagian dari Komunitas: Kami percaya bahwa coffeeshop adalah jantung komunitas. Oleh karena itu, kami secara aktif berusaha menjadi ruang yang menginspirasi. Nantikan event-event kecil kami, seperti sharing session, workshop singkat, atau pameran karya seniman lokal yang akan kami adakan.
 ## 
-Melalui kerja sama antara siswa, guru, dan seluruh warga sekolah, SMP Daan Mogot membuktikan bahwa kepedulian terhadap lingkungan bisa dimulai dari langkah kecil di sekolah. Inisiatif ini menjadi contoh nyata bahwa pendidikan tidak hanya membentuk kecerdasan intelektual, tetapi juga kepedulian sosial dan moral bagi masa depan bumi.
+Terima Kasih Telah Menjadi Bagian: Kami ingin mengucapkan terima kasih kepada setiap pelanggan yang telah menjadi bagian dari perjalanan SeduhLoka. Senyum Anda saat menerima kopi, obrolan Anda di sudut kedai, semuanya adalah bahan bakar bagi semangat kami.

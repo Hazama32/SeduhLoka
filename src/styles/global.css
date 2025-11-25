@@ -24,7 +24,7 @@ a {
     color: white;
   }
   body {
-    background: linear-gradient(to bottom right, #1f2a44, #cbd5e1);
+    background: linear-gradient(to bottom right, #FDE68A, #F59E0B);
 
   }
 }
@@ -42,7 +42,7 @@ a {
     width: 0;
   }
   to {
-    width: 15ch; /* panjang teks di home, sesuaikan */
+    width: 9ch; /* panjang teks di home, sesuaikan */
   }
 }
 
@@ -56,8 +56,8 @@ a {
   display: inline-block;
   overflow: hidden;
   white-space: nowrap;
-  border-right: 3px solid #b3b2b0; /* kuning */
-  animation: typing-home 2.5s steps(15, end) forwards, blink-home 0.75s step-end infinite;
+  border-right: 3px solid #F59E0B; /* kuning */
+  animation: typing-home 1.5s steps(10,end) forwards, blink-home 0.75s step-end infinite;
 }
 
 /* === ANIMASI UNTUK GALERI === */
