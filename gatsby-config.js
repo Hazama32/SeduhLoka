@@ -2,9 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Setiap Seduhan, Rasa di Rumah.`,
     description: `Menciptakan tempat di mana kualitas kopi premium tidak terasa intimidating, dan setiap pengunjung merasa seperti kembali ke rumah. Kami percaya bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di lingkungan yang nyaman.`,
-    siteUrl: "https://seduhlokacoffee.netlify.app/",
+    siteUrl: "https://seduhlokacoffee.web.id",
     author: `M.Bintang Insan Cemerlang`,
+    keywords: "Kopi, Coffee Shop, Kedai Kopi, Specialty Coffee, Kopi Premium, Ngopi Asik, Tempat Nongkrong, Kopi Lokal, Barista, Seduh Kopi, Kopi Enak, Suasana Nyaman, Kopi Kekinian, Minuman Kopi, Kopi Arabika, Kopi Robusta",
   },
+
   plugins: [
     `gatsby-plugin-image`,
     {
