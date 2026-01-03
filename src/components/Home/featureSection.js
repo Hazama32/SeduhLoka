@@ -2,7 +2,7 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 
 // Assets
-import HeroImage from "../../images/Kopi.png"
+import HeroImage from "../../images/Kopi.webp"
 import Image1 from "../../images/All-guru.jpg"
 import Image2 from "../../images/ATS.jpg"
 import Image3 from "../../images/Kerja-bakti.jpg"
@@ -18,11 +18,12 @@ const FeatureSection = () => {
             className="rounded-xl w-full object-cover aspect-[4/3] sm:aspect-video shadow-md"
             src={HeroImage}
             alt="HeroImage"
+            fetchpriority="high"
           />
         </div>
 
         {/* Teks */}
-        <div className="w-full lg:w-1/2 text-center lg:text-right flex flex-col justify-center">
+        <div className="w-full lg:w-1/2 text-center lg:text-right flex flex-col justify-center min-h-[200px]">
          <h2 className="text-3xl sm:text-4xl lg:text-6xl font-bold leading-tight text-center lg:text-right bg-gradient-to-b from-amber-500 to-amber-800 bg-clip-text text-transparent drop-shadow-[0_2px_2px_rgba(0,0,0,0.25)]">
             Setiap Seduhan, Rasa di Rumah.
          </h2>

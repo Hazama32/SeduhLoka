@@ -219,6 +219,7 @@ const Contact = () => {
               className="object-cover h-full w-full"
               src={image}
               alt="HeroImage"
+              fetchpriority="high"
             ></img>
           </div>
         </Fade>

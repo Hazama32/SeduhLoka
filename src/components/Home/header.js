@@ -1,6 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
-import hero from "../../images/logo.png"
+import hero from "../../images/logo.webp"
 
 const Header = () => {
   return (
@@ -64,6 +64,10 @@ const Header = () => {
               className="rounded-xl w-40 sm:w-52 md:w-64 lg:w-[60%] object-contain drop-shadow-lg"
               src={hero}
               alt="Logo SeduhLoka"
+              fetchpriority="high"
+              width="512"
+              height="512"
+
             />
           </div>
         </div>
