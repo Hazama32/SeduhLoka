@@ -4,7 +4,7 @@ module.exports = {
     description: `Menciptakan tempat di mana kualitas kopi premium tidak terasa intimidating, dan setiap pengunjung merasa seperti kembali ke rumah. Kami percaya bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di lingkungan yang nyaman.`,
     siteUrl: "https://seduhlokacoffee.web.id",
     author: `M.Bintang Insan Cemerlang`,
-    keywords: "Kopi, Coffee Shop, Kedai Kopi, Specialty Coffee, Kopi Premium, Ngopi Asik, Tempat Nongkrong, Kopi Lokal, Barista, Seduh Kopi, Kopi Enak, Suasana Nyaman, Kopi Kekinian, Minuman Kopi, Kopi Arabika, Kopi Robusta",
+    keywords: "SeduhLoka Coffee, Coffee shop Bekasi, Kopi premium Bekasi, Tempat ngopi nyaman Bekasi, Tips seduh kopi rumahan, Cafe homey di Bekasi, Tempat nongkrong Bekasi Utara, Perbedaan Arabika dan Robusta untuk seduhan harian, Rahasia seduhan kopi sempurna ala barista, Komunitas kopi Bekasi, Cafe dengan dukungan petani kopi lokal di Bekasi",
   },
 
   plugins: [
