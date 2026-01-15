@@ -114,7 +114,16 @@ const Contact = () => {
                       <p className="mb-2 font-bold underline decoration-amber-400">
                         Lokasi
                       </p>
-                      <a className="text-neutral-500 mb-2" href="https://maps.app.goo.gl/iGzDh77fo69WWkpc6">Jl. Danau Duta Selatan 17-2,RT.012/RW.014, Harapan Baru Kec. Bekasi Utara Kota Bekasi, Jawa Barat</a>
+                      <iframe
+                        src="https://www.google.com/maps/embed?pb=!4v1768483553012!6m8!1m7!1sVx0ndvksN7MUWYVh1ceZtg!2m2!1d-6.215067437927065!2d107.0199458860022!3f179.37!4f0!5f0.7820865974627469" 
+                        width="100%"
+                        height="300"
+                        style={{ border: 0 }}
+                        allowFullScreen=""
+                        loading="lazy"
+                        referrerPolicy="no-referrer-when-downgrade"
+                        title="Lokasi SeduhLoka Coffee">
+                      </iframe>
                     </div>
                   </div>
                 </div>
