@@ -102,39 +102,33 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    {
-      resolve: `gatsby-plugin-sitemap`,
-      options: {
-      output: `/sitemap.xml`,
-      query: `
-        {
-         allSitePage {
-           nodes {
-              path
-            }
-          }
-          site {
-           siteMetadata {
-              siteUrl
-           }
+{
+  resolve: `gatsby-plugin-sitemap`,
+  options: {
+    query: `
+      {
+        site {
+          siteMetadata {
+            siteUrl
           }
         }
-      `,
-      resolveSiteUrl: ({ site }) => {
-       // Ambil siteUrl dari siteMetadata
-        return site.siteMetadata.siteUrl
-     },
-      serialize: ({ site, allSitePage }) =>
-       allSitePage.nodes.map(node => {
-         return {
-            url: `${site.siteMetadata.siteUrl}${node.path}`,
-            changefreq: `daily`,
-            priority: 0.7,
+        allSitePage {
+          nodes {
+            path
           }
-        }),
-    },
-    },
-
+        }
+      }
+    `,
+    serialize: ({ site, allSitePage }) =>
+      (allSitePage?.nodes || []).map(page => {
+        return {
+          url: new URL(page.path, site.siteMetadata.siteUrl).toString(),
+          changefreq: `daily`,
+          priority: 0.7,
+        };
+      }),
+  },
+},
     `gatsby-plugin-netlify`,
     `gatsby-plugin-gatsby-cloud`,
     "gatsby-plugin-postcss",
