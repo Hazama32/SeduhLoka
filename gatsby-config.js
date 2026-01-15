@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Setiap Seduhan, Rasa di Rumah.`,
-    description: `Menciptakan tempat di mana kualitas kopi premium tidak terasa intimidating, dan setiap pengunjung merasa seperti kembali ke rumah. Kami percaya bahwa kopi terbaik adalah kopi yang dibuat dengan hati dan disajikan di lingkungan yang nyaman.`,
+    description: `SeduhLoka Coffee - coffee shop homey di Bekasi dengan kopi premium Arabika & Robusta. Rasakan suasana nyaman seperti di rumah.`,
     siteUrl: "https://seduhlokacoffee.web.id",
     author: `M.Bintang Insan Cemerlang`,
     keywords: "SeduhLoka Coffee, Coffee shop Bekasi, Kopi premium Bekasi, Tempat ngopi nyaman Bekasi, Tips seduh kopi rumahan, Cafe homey di Bekasi, Tempat nongkrong Bekasi Utara, Perbedaan Arabika dan Robusta untuk seduhan harian, Rahasia seduhan kopi sempurna ala barista, Komunitas kopi Bekasi, Cafe dengan dukungan petani kopi lokal di Bekasi",
@@ -102,12 +102,44 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+      output: `/sitemap.xml`,
+      query: `
+        {
+         allSitePage {
+           nodes {
+              path
+            }
+          }
+          site {
+           siteMetadata {
+              siteUrl
+           }
+          }
+        }
+      `,
+      resolveSiteUrl: ({ site }) => {
+       // Ambil siteUrl dari siteMetadata
+        return site.siteMetadata.siteUrl
+     },
+      serialize: ({ site, allSitePage }) =>
+       allSitePage.nodes.map(node => {
+         return {
+            url: `${site.siteMetadata.siteUrl}${node.path}`,
+            changefreq: `daily`,
+            priority: 0.7,
+          }
+        }),
+    },
+    },
+
     `gatsby-plugin-netlify`,
     `gatsby-plugin-gatsby-cloud`,
     "gatsby-plugin-postcss",
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
-    `gatsby-plugin-sitemap`,
   ],
 }

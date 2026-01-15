@@ -13,7 +13,6 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-3 py-2 rounded-md">
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center">
-            {/* Logo SMP DAAN MOGOT */}
             <a
               className="text-black flex-shrink-0 font-montserrat font-semibold"
               href="/"

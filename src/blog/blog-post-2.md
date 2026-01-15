@@ -6,7 +6,17 @@ featuredimage: /img/about-head.png
 categories:
   - blog
 tags:
-  - blog
+  - komunitas kopi
+  - coffee shop Bekasi
+  - SeduhLoka Coffee
+  - kopi lokal
+  - petani kopi
+  - cafe homey
+  - tempat nongkrong Bekasi
+  - sharing session kopi
+  - workshop kopi
+  - seniman lokal Bekasi
+
 description: Sejak pintu SeduhLoka pertama kali terbuka, kami selalu memiliki satu tujuan menjadi lebih dari sekadar coffeeshop. Kami ingin menjadi sebuah tempat di mana orang-orang bisa berkumpul, berbagi cerita, dan merasa seperti di rumah.
 ---
 ##

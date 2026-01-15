@@ -6,7 +6,17 @@ featuredimage: /img/racik.png
 categories:
   - blog
 tags:
-  - blog
+ - tips barista
+ - kopi rumahan
+ - manual brew
+ - kopi Arabika
+ - kopi Robusta
+ - coffee shop Bekasi
+ - SeduhLoka Coffee
+ - cara seduh kopi
+ - alat seduh kopi
+ - komunitas kopi Bekasi
+ 
 description: Siapa bilang kopi enak hanya bisa dinikmati di coffeeshop? Dengan sedikit tips dari Barista SeduhLoka, Anda bisa menciptakan seduhan yang tak kalah nikmat di kenyamanan rumah Anda sendiri. Siapkan alat seduh favoritmu, mari kita mulai!
 ---
 ##

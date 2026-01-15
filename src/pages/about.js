@@ -12,8 +12,8 @@ const About = () => {
   return (
     <Layout>
       <Seo
-        title="Tentang SeduhLoka"
-        description="Pelajari lebih lanjut tentang filosofi SeduhLoka. Kami menyajikan biji kopi pilihan (Arabika & Robusta) dengan suasana kedai yang hangat dan cozy untuk Anda."
+        title="Tentang SeduhLoka Coffee - Komunitas Kopi Bekasi"
+        description="Cafe homey di Bekasi yang mendukung petani kopi lokal dan komunitas kreatif."
       ></Seo>
       <AboutHeader></AboutHeader>
       <AboutPage></AboutPage>

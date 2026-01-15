@@ -6,7 +6,17 @@ featuredimage: /img/biji.jpg
 categories:
   - blog
 tags:
-  - blog
+  - kopi Arabika
+  - kopi Robusta
+  - perbedaan Arabika dan Robusta
+  - kopi harian
+  - manual brew
+  - espresso blend
+  - kopi susu Bekasi
+  - SeduhLoka Coffee
+  - coffee shop Bekasi
+  - tips barista kopi
+
 description: Pernahkah Anda bertanya-tanya mengapa ada kopi yang pahitnya kuat dan ada yang aromanya lebih lembut? Jawabannya ada pada dua jenis biji kopi paling populer di dunia Arabika dan Robusta. Di SeduhLoka, kami percaya setiap seduhan adalah pengalaman, dan pengalaman terbaik dimulai dengan pemahaman. Mari kita bedah perbedaannya!
 ---
 ##

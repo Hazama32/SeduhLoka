@@ -12,8 +12,8 @@ const IndexPage = () => (
   <div className="h-auto w-screen">
     <Layout>
       <Seo
-        title="SeduhLoka"
-        description="SeduhLoka menawarkan pengalaman ngopi serasa di rumah. Nikmati Arabika premium, Robusta lokal, dan suasana cozy di Bekasi. Setiap Seduhan, Rasa di Rumah"
+        title="SeduhLoka Coffee - Coffee Shop Homey di Bekasi"
+        description="Coffee shop Bekasi dengan kopi premium Arabika & Robusta, tempat ngopi nyaman dan homey."
       ></Seo>
       <Header></Header>
       <FeatureSection></FeatureSection>
