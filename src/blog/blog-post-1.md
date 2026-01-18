@@ -21,16 +21,16 @@ description: Siapa bilang kopi enak hanya bisa dinikmati di coffeeshop? Dengan s
 ---
 ##
 A.
-Pilih Biji Kopi Berkualitas: Ini adalah pondasi utamanya! Pastikan biji kopi Anda fresh (baru roasting) dan digiling sesaat sebelum diseduh. Anda bisa mendapatkan biji kopi fresh pilihan di SeduhLoka.
+Pilih Biji Kopi Berkualitas, Pastikan biji kopi Anda fresh (baru roasting) dan digiling sesaat sebelum diseduh. Anda bisa mendapatkan biji kopi fresh pilihan di SeduhLoka.
 ## 
 B.
-Perhatikan Rasio Kopi dan Air: Aturan emas yang sering digunakan adalah 1:15 (1 gram kopi untuk setiap 15 ml air). Jangan ragu bereksperimen untuk menemukan rasio favoritmu.
+Perhatikan Rasio Kopi dan Air, Aturan emas yang sering digunakan adalah 1:15 (1 gram kopi untuk setiap 15 ml air). Jangan ragu bereksperimen untuk menemukan rasio favoritmu.
 ##
 C.
-Suhu Air yang Ideal: Suhu air yang terlalu panas bisa membuat kopi pahit, sementara terlalu dingin membuatnya kurang terekstraksi. Idealnya adalah antara 90-96°C.
+Suhu air yang terlalu panas bisa membuat kopi pahit, sementara terlalu dingin membuatnya kurang terekstraksi. Idealnya adalah antara 90-96°C.
 ##
 D.
-Gilingan yang Tepat: Gilingan kasar untuk French Press, sedang untuk V60 atau Pour Over, dan halus untuk Espresso.
+Gilingan yang Tepat ada 3 yaitu Gilingan kasar untuk French Press, sedang untuk V60 atau Pour Over, dan halus untuk Espresso.
 ##
 E.
-Perhatikan Waktu Seduh: Setiap metode punya waktu seduh optimalnya sendiri. Jangan terburu-buru, nikmati prosesnya.
+Perhatikan Waktu Seduh, Setiap metode punya waktu seduh optimalnya sendiri. Jangan terburu-buru dan nikmati prosesnya.

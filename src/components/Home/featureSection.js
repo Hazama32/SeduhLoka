@@ -3,9 +3,9 @@ import Fade from "react-reveal/Fade"
 
 // Assets
 import HeroImage from "../../images/Kopi.webp"
-import Image1 from "../../images/All-guru.jpg"
-import Image2 from "../../images/ATS.jpg"
-import Image3 from "../../images/Kerja-bakti.jpg"
+import Image1 from "../../images/iced.png"
+import Image2 from "../../images/hot latte.png"
+import Image3 from "../../images/Kopi.png"
 
 const FeatureSection = () => {
   return (
@@ -90,7 +90,7 @@ const FeatureSection = () => {
       </Fade>
 
       {/* Galeri */}
-      {/* <Fade bottom cascade>
+      <Fade bottom cascade>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-10">
           {[Image1, Image2, Image3].map((img, i) => (
             <div key={i} className="rounded-xl overflow-hidden shadow-md">
@@ -102,28 +102,28 @@ const FeatureSection = () => {
             </div>
           ))}
         </div>
-      </Fade> */}
+      </Fade>
 
       {/* Kegiatan */}
-      {/* <Fade bottom cascade>
+       <Fade bottom cascade>
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl shadow-md text-center">
+          <div className="bg-gradient-to-r from-amber-500 to-amber-800 p-6 rounded-xl shadow-md text-center">
             <h3 className="text-black text-xl sm:text-2xl font-semibold">
-              Kegiatan Upacara Bendera 17 Agustus 2025
+              Iced Latte SeduhLoka
             </h3>
           </div>
-          <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl shadow-md text-center">
+          <div className="bg-gradient-to-r from-amber-500 to-amber-800 p-6 rounded-xl shadow-md text-center">
             <h3 className="text-black text-xl sm:text-2xl font-semibold">
-              Kegiatan Ujian Tes Kemampuan Akademik
+              Hot Cappuccino SeduhLoka
             </h3>
           </div>
-          <div className="bg-gradient-to-r from-gray-200 to-gray-400 p-6 rounded-xl shadow-md text-center">
+          <div className="bg-gradient-to-r from-amber-500 to-amber-800 p-6 rounded-xl shadow-md text-center">
             <h3 className="text-black text-xl sm:text-2xl font-semibold">
-              Kegiatan Kerja Bakti di Lingkungan Sekolah
+              Hot Latte SeduhLoka
             </h3>
           </div>
         </div>
-      </Fade> */}
+      </Fade>
     </div>
   )
 }

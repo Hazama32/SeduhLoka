@@ -4,7 +4,7 @@ module.exports = {
     description: `SeduhLoka Coffee - coffee shop homey di Bekasi dengan kopi premium Arabika & Robusta. Rasakan suasana nyaman seperti di rumah.`,
     siteUrl: "https://seduhlokacoffee.web.id",
     author: `M.Bintang Insan Cemerlang`,
-    keywords: "SeduhLoka Coffee, Coffee shop Bekasi, Kopi premium Bekasi, Tempat ngopi nyaman Bekasi, Tips seduh kopi rumahan, Cafe homey di Bekasi, Tempat nongkrong Bekasi Utara, Perbedaan Arabika dan Robusta untuk seduhan harian, Rahasia seduhan kopi sempurna ala barista, Komunitas kopi Bekasi, Cafe dengan dukungan petani kopi lokal di Bekasi",
+    keywords: "SeduhLoka Coffee, Coffee shop di Bekasi Utara, Kopi premium di Bekasi, Tempat ngopi nyaman Bekasi, Tips seduh kopi rumahan, Cafe homey di Bekasi, Tempat nongkrong Bekasi Utara, SeduhLoka lahir dari sebuah filosofi sederhana, Rahasia seduhan kopi sempurna ala barista, Komunitas kopi Bekasi, Galeri Menu SeduhLoka, Kisah SeduhLoka dan Komunitas Kami, Arabika vs Robusta, Lokasi SeduhLoka Coffee, Iced Coffee SeduhLoka, Hot Latte SeduhLoka, Hot Cappuccino SeduhLoka, Manual Brew SeduhLoka,",
   },
 
   plugins: [

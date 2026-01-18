@@ -63,7 +63,7 @@ const Header = () => {
             <img
               className="rounded-xl w-40 sm:w-52 md:w-64 lg:w-[60%] object-contain drop-shadow-lg"
               src={hero}
-              alt="Logo SeduhLoka"
+              alt="Logo SeduhLoka Coffee"
               fetchpriority="high"
               width="512"
               height="512"

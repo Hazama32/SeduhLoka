@@ -68,11 +68,16 @@ const Footer = () => {
         <div>
           <h3 className="font-semibold text-gray-900 mb-3">Informasi Perusahaan</h3>
           <h4>Alamat:</h4>
-          <a className="text-gray-700 text-sm hover:underline footer-link" href="https://maps.app.goo.gl/iGzDh77fo69WWkpc6">
-           Jl. Danau Duta Selatan 17-2,RT.012/RW.014,<br>
-           </br>Harapan Baru Kec. Bekasi Utara<br>
-           </br>Kota Bekasi, Jawa Barat
-          </a>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!4v1768483553012!6m8!1m7!1sVx0ndvksN7MUWYVh1ceZtg!2m2!1d-6.215067437927065!2d107.0199458860022!3f179.37!4f0!5f0.7820865974627469" 
+            width="100%"
+            height="300"
+            style={{ border: 0 }}
+            allowFullScreen=""
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            title="Lokasi SeduhLoka Coffee">
+          </iframe>
           <h4 className="mt-3">Email:</h4>  
           <a
             href="mailto:seduhloka38@gmail.com"
